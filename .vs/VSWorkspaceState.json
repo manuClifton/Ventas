@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaVenta.BLL\\Servicios",
+    "\\SistemaVenta.BLL\\Servicios\\Contrato",
+    "\\SistemaVenta.DAL\\Repositorios",
+    "\\SistemaVenta.DAL\\Repositorios\\Contrato"
+  ],
+  "SelectedNode": "\\SistemaVenta.DAL",
+  "PreviewInSolutionExplorer": false
+}
